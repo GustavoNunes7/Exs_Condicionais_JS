@@ -174,6 +174,8 @@ if(semaforo == "verde"){
 
 
 //DESAFIO
+console.log("")
+console.log("DESAFIO")
 let media = 6.4
 let falta = 19
 
