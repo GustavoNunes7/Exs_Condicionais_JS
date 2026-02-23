@@ -83,11 +83,11 @@ if(altura >= 1.40){
 console.log("")
 console.log("Ex.9")
 
-verificar_valor = 12
+verificar_valor = 0
 
-if(valor > 0){
+if(verificar_valor > 0){
     console.log("Esse número é positivo!")
-}else if (verificar_valor = 0) {
+}else if (verificar_valor == 0) {
     console.log("Esse número é 0")
 }
 else{
